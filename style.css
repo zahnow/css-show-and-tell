@@ -35,6 +35,17 @@ h2 {
     font-weight: 600;
 }
 
+hr {
+    width: 50%;
+    height: 1rem;
+    margin-bottom: 2rem;
+    border: none;
+    border-radius: 2px;
+    background-image: var(--gradient);
+    background-size: 500%;
+    animation: gradient-shift 4.5s infinite alternate;
+}
+
 .main-content {
     display: flex;
     flex-wrap: wrap;
