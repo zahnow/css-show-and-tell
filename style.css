@@ -77,10 +77,6 @@ hr {
     animation: wiggle-big .5s forwards;
 }
 
-.card-header {
-
-}
-
 .card-text {
     padding: .5rem 1rem;
 }
